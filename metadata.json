@@ -1,0 +1,5 @@
+{
+  "name": "Ambient Soundscape Player",
+  "description": "A compact and stylish ambient sound player to help you focus, relax, or sleep. Play various sounds like rain, wind, and forest, each with its own volume control. Designed to be a small, always-present companion on your desktop.",
+  "requestFramePermissions": []
+}
